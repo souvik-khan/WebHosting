@@ -1,0 +1,11 @@
+﻿body {
+    margin: 0px;
+}
+#header {
+    height: 250px;
+    background-color: aqua;
+}
+#footer {
+    height: 350px;
+    background-color: blueviolet;
+}
